@@ -1,3 +1,3 @@
 // 충돌되는 코드
-// base
+// basdfsdfsdfse
 // compare
